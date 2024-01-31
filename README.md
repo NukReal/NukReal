@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Let's see if I break a new record at becoming the fastest Web Development learner ever, ever👋
 
 <!--
 **NukReal/NukReal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
